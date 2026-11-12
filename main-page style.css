@@ -88,10 +88,10 @@ main{
     height: 100%;
 }
 
-.div nota {
+.div, nota {
     color: gray;
     background-color: white !important;
-
+    padding: 20px;
 }
 
 em{
@@ -111,8 +111,10 @@ h2{
 
 p{
     color:black;
-    text-align: center;
+    text-align: justify;
     font-family: 'Helvetica';
+    margin: 0 auto;
+    padding: 20px;
 }
 
 footer{
