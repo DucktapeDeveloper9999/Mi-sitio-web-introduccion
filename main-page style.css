@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: system-ui, sans-serif;
+    scroll-behavior: smooth;
+}
+
+.title {
+    text-align: center;
+}
+
+body {
+    display: grid;
+    grid-template-rows: auto 1fr auto;
+    min-height: 100vh;
+    min-height: 100dvh;
+}
+
+header{
+    background-color: teal;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+
+.idiomas {
+    display: flex;
+    gap: 12px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.lang-button {
+   border: none;
+   background: transparent;
+   padding: 4px;
+   cursor: pointer;
+   border-radius: 4px;
+   transition: transform 0.2s;
+}
+
+.lang-button:hover {
+  transform: scale(1.15);
+}
+
+.lang-button img {
+     width: 32px;
+     height: 22px;
+     border-radius: 4px;
+     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+nav{
+    background-color: turquoise;
+    width: 90%;
+    height: 100%;
+    position: flex;
+    text-align: center;
+
+    ul{
+        list-style: none;
+        font-style: italic;
+
+
+        li {
+            transition: transform 0.15s linear;
+        };
+        li:hover {
+            transform: scale(1.2);
+        };
+    }
+}
+
+.title{
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+main{
+    background-color:rgb(198, 228, 255);
+    width: 100%;
+    height: 100%;
+}
+
+.div nota {
+    color: gray;
+    background-color: white !important;
+
+}
+
+em{
+    color: black;
+    text-align: left;
+    text-decoration: underline;
+    font-family: 'Helvetica';
+    min-width: 200px;
+    max-width: 800px;
+}
+
+h2{
+    color: darkblue;
+    text-align: center;
+    font-family: 'Georgia';
+}
+
+p{
+    color:black;
+    text-align: center;
+    font-family: 'Helvetica';
+}
+
+footer{
+    background-color: black;
+    width: 100%;
+    height: 160px;
+    display: flex;
+    margin-top: 2rem;
+
+    div {
+        list-style: none;
+        font-style: normal;
+
+        a[href*='Informacion adicional'] {
+            color: white
+        };
+        a[href*='Preguntas'] {
+            color: white
+        };
+        a[href*='Auyda'] {
+            color: white
+        };
+        a[href*='Volver al inicio'] {
+            color: white
+        };
+    };
+};
