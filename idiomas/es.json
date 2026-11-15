@@ -1,17 +1,16 @@
 {
-    "title": {
-        "My website-introduction": "Mi sitio web introducción"
-    },
-
-    "header": {
-        "Welcome": "Bienvenido",
-        "Note": "Nota",
-        "Who I am?": "¿Quien soy?",
-        "My first steps as an programer": "Mis primeros pasos como un programador",
-        "My goals and my ideas" : "Mis metas y mis ideas"
-    },
-
-    "main": {
-        
-    }
+  "title": {
+    "myWebsiteIntroduction": "Mi sitio web de introducción"
+  },
+  "header": {
+    "welcome": "Bienvenido",
+    "note": "Nota",
+    "whoIAm": "¿Quién soy?",
+    "firstSteps": "Mis primeros pasos como programador",
+    "goalsAndIdeas": "Mis metas e ideas"
+  },
+  "main": {
+    "welcomeTitle": "¡Bienvenido a mi sitio web!",
+    "welcomeText": "Bienvenidos a mi sitio web de introducción, donde voy a presentarme y compartir algo sobre mí."
+  }
 }

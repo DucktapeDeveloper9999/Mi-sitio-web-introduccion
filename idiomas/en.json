@@ -1,0 +1,16 @@
+{
+  "title": {
+    "myWebsiteIntroduction": "My website introduction"
+  },
+  "header": {
+    "welcome": "Welcome",
+    "note": "Note",
+    "whoIAm": "Who am I?",
+    "firstSteps": "My first steps as a programmer",
+    "goalsAndIdeas": "My goals and ideas"
+  },
+  "main": {
+    "welcomeTitle": "Welcome to my website!",
+    "welcomeText": "Welcome to my introduction website, where I will introduce myself and share a little about me."
+  }
+}
