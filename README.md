@@ -6,25 +6,25 @@ Naam: Valerio;              Studentnummer:97109640;
 
 Projectgegevens
 
-Naam van het project: Mi sitio web introduccion(esp.)/Mijne introductie website(nl.);
+Naam van het project: Mi sitio web introduccion(esp.)/Mijn introductie website(nl.);
 
 Beschrijving voor het project
 
- Mi sitio web introduccion(esp.)/Mijne introductie website(nl.) het is soort van mijne personele pagina,
-waar ik vertel over mijzelf. In de website mensen kunnen lezen die informatie, zoals: "wie ik ben?", "hoe waren 
-mijne eerste stappen als een programuur?", "mijne ideen en doelen" en "het toekomst". Natuurlijk ik heb toegevoegd
-het contact pagina, bij welke mensen gaan weten hoe zij gaan berijken aan mij. Ook deze web is tweetallige en mensen
+ Mi sitio web introduccion(esp.)/Mijn introductie website(nl.) het is soort van persoonlijke pagina,
+waar ik vertel over mijzelf. In de website kunnen mensen informatie lezen, zoals: "wie ik ben?", "hoe waren 
+mijn eerste stappen als een progammeerder?", "mijn ideeën en doelen" en "de toekomst". Natuurlijk heb ik toegevoegd
+het contact pagina, bij welke mensen gaan weten hoe zij gaan bereiken aan mij. Ook deze web is tweetalig en mensen
 kunnen vragen stellen, blijven hun mening en genieten van de fotos welke zijn op die pagina web.
 
 Reden voor het maken van dit project
 
- In deze project ik wil maken gebruik van het kennis, welke ik heb gekrijgen tijdens mijne studie in codecademy
-en krijgen meer praktijk in bouwen infrastructuur van de websites. Ook ik wil testen verschielende methodes, functies
+ In deze project ik wil maken gebruik van het kennis, welke ik heb gekregen tijdens mijn studie in codecademy
+en krijgen meer praktijk in bouwen infrastructuur van de websites. Ook wil ik testen verschillende methodes, functies
 en eigenschappen van JavaScript, CSS en HTML.
 
 Randvoorwarden:
 
-Mi sitio web introduccion moet voldoen de volgende warden:
+"Mi sitio web introduccion" moet voldoen aan de volgende voorwaarden:
 
 - Copyright: afbeeldingen, iconen, lettertypen en andere externe materialen mogen alleen worden gebruikt wanneer hiervoor toestemming is of wanneer de betreffende licentie dit toestaat.
 - Licenties: gebruikte libraries en frameworks moeten een passende licentie hebben. Bij gebruik van open-source software houd ik rekening met de voorwaarden van de betreffende licentie.
@@ -47,4 +47,4 @@ Met deze opdracht hoop ik de volgende kerntaken en werkprocessen te vullen:
 - Realiseren: de website daadwerkelijk ontwikkelen en de geplande functionaliteiten bouwen.
 - Testen: controleren of de website correct werkt en gevonden fouten oplossen.
 
-Het uiteindelijke doel is om een werkende en functioniele tweetalige website bouwen, tijdens oefenen en versterker mijne actuele kennis op dit moment.
+Het uiteindelijke doel is om een werkende en functioniele tweetalige website bouwen, tijdens oefenen en versterken van mijn actuele kennis op dit moment.
