@@ -125,20 +125,9 @@ footer{
     margin-top: 2rem;
 
     div {
-        list-style: none;
-        font-style: normal;
-
-        a[href*='Informacion adicional'] {
-            color: white
-        };
-        a[href*='Preguntas'] {
-            color: white
-        };
-        a[href*='Auyda'] {
-            color: white
-        };
-        a[href*='Volver al inicio'] {
-            color: white
-        };
+        a {
+            color: white;
+            text-decoration: none;
+        }
     };
 };
