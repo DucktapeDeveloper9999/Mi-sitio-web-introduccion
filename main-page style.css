@@ -146,4 +146,31 @@ footer{
             text-align: justify;
         }
     };
+
+    .social {
+        display: flex;
+        justify-content: right;
+        align-items: center;
+        gap: 20px;
+        padding: 15px o;
+    }
+
+    .social  a {
+        display: flex;
+        color: black;
+        background-color: white;
+        padding: 5px;
+        border-radius:  5px;
+        text-decoration: none;
+    }
+
+    .social a i {
+        font-size: 20px;
+        transition: all 0.3s ease;
+    }
+
+    .social a i:hover {
+        transform: scale(-5px);
+    }
+
 };
